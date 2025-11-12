@@ -1,0 +1,2 @@
+data/artifacts/database.db filter=lfs diff=lfs merge=lfs -text
+data/properati_clean.csv filter=lfs diff=lfs merge=lfs -text
